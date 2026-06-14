@@ -190,4 +190,28 @@ export const workData = [
   },
 ];
 
+export const educationData = [
+  {
+    College: "KIET Deemed to be University",
+    course: "Bachelor of Technology",
+    duration: "2023 - Present",
+    description:"Affliated to Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+    color: "purple",
+  },
+  {
+    College: "Don Bosco Hr. Sec. School",
+    course: "Higher Secondary Education",
+    duration: "2020 - 2022",
+    description:"Nagaland Board of School Education",
+    color: "pink",
+  },
+  {
+    College: "Mount Hermon Hr. Sec. School",
+    course: "Secondary Education",
+    duration: "2018 - 2020",
+    description:"Nagaland Board of School Education",
+    color: "blue",
+  },
+];
+
 // Note: project images and projects are exported above as `assets` and `projects`.

@@ -2,9 +2,15 @@ import Hero from '../components/Hero'
 import About from '../components/About'
 import Skills from '../components/Skills'
 import Projects from '../components/Projects'
-import WorkE from '../components/WorkE'
+// import WorkExperience from '../components/WorkExperience'
 import Contact from '../components/Contact'
 import Footer from '../components/Footer'
+import Education from '../components/Education'
+
+
+
+
+
 
 
 
@@ -17,9 +23,11 @@ const Home = () => {
       <About/>
       <Skills/>
       <Projects/>
-      <WorkE/>
+      {/* <WorkExperience/> */}
+      <Education/>
       <Contact/>
       <Footer/>
+
     </div>
   )
 }
