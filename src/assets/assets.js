@@ -13,6 +13,7 @@ import {
   FaDatabase,
   FaCloud,
   FaRobot,
+  FaPython,
 } from "react-icons/fa";
 
 import profileImg from "../assets/profile.avif";
@@ -142,14 +143,14 @@ export const projects = [
     code: "https://github.com/lalbabukumar12/portfolio",
   },
   {
-    title: "Chat App",
+    title: "Housing Price Prediction",
     description:
-      "A real-time chat application with group messaging, emojis, and file sharing.",
+      "A machine learning model to predict housing prices based on various features.",
     image: projectImg5,
-    tech: ["Socket.IO", "React", "Node.js", "MongoDB"],
-    icons: [FaReact, FaNodeJs, FaDatabase],
-    demo: "#",
-    code: "#",
+    tech: ["Python", "Scikit-learn", "Pandas", "Matplotlib"],
+    icons: [FaPython, FaDatabase],
+    demo: "https://github.com/lalbabukumar12/Housing_Price",
+    code: "https://github.com/lalbabukumar12/Housing_Price",
   },
   {
     title: "GitHub User Finder",
