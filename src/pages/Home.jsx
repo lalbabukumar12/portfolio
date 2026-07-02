@@ -8,14 +8,6 @@ import Footer from '../components/Footer'
 import Education from '../components/Education'
 
 
-
-
-
-
-
-
-
-
 const Home = () => {
   return (
     <div>

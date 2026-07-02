@@ -109,7 +109,7 @@ export const projects = [
     tech: ["React", "Node.js", "MongoDB", "Stripe"],
     icons: [FaReact, FaNodeJs, FaDatabase, FaStripe],
     demo: "#",
-    code: "#",
+    code: "https://github.com/lalbabukumar12/E_commerce-",
   },
   {
     title: "Task Management App",
@@ -139,7 +139,7 @@ export const projects = [
     tech: ["Next.js", "Tailwind CSS", "Framer Motion", "Markdown"],
     icons: [FaReact, FaCloud],
     demo: "#",
-    code: "#",
+    code: "https://github.com/lalbabukumar12/portfolio",
   },
   {
     title: "Chat App",
@@ -152,14 +152,14 @@ export const projects = [
     code: "#",
   },
   {
-    title: "AI Image Generator",
+    title: "GitHub User Finder",
     description:
-      "Generate images using AI prompts powered by OpenAI's DALL·E model and Cloudinary.",
+      "A simple application to search for GitHub users and view their profiles.",
     image: projectImg6,
-    tech: ["React", "OpenAI API", "Cloudinary", "Tailwind CSS"],
+    tech: ["HTML", "CSS", "JavaScript", "APIs"],
     icons: [FaRobot, FaReact, FaCloud],
-    demo: "#",
-    code: "#",
+    demo: "https://lalbabukumar12.github.io/Github_User_Finder/",
+    code: "https://github.com/lalbabukumar12/Github_User_Finder",
   },
 ];
 
