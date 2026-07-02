@@ -1,16 +1,57 @@
-# React + Vite
+# 💼 Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive portfolio website showcasing my projects, skills, education, and contact information. Built with React.js to highlight my work and provide an easy way to connect with me.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 **Portfolio:** https://lalbabukumar.netlify.app/
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Responsive Design
+- Smooth Scrolling Navigation
+- About Me Section
+- Skills Showcase
+- Projects Gallery
+- Education Timeline
+- Contact Form
+- Resume Download
+- Modern UI with Animations
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Tailwind CSS
+- JavaScript
+- Framer Motion
+- React Icons
+- EmailJS
+- Netlify
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/lalbabukumar12/portfolio.git
+cd portfolio
+npm install
+npm run dev
+```
+
+## 📂 Project Structure
+
+```text
+src/
+components/
+assets/
+public/
+```
+
+## 👨‍💻 Author
+
+**Lalbabu Kumar**
+
+🌐 Portfolio: https://lalbabukumar.netlify.app/
+
+💻 GitHub: https://github.com/lalbabukumar12
+
+🔗 LinkedIn: https://www.linkedin.com/in/lalbabukumar
